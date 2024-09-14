@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Youshen_Xiao.jpg
+  image: Youshen_Xiao_3.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -28,4 +28,6 @@ My research interests mainly focus on:
 * Undersampling Photoacoustic Microscopy Reconstruction<br>
 * Neural Representation<br>
 
+
+See more in the [detailed CV](https://zhaowumian7.github.io/assets/pdf/zhaowumian.pdf).
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Live
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: All my live.
+nav: ture
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work,fun]
 horizontal: false
 ---
 
