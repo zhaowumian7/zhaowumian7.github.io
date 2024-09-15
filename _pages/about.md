@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-I am `Youshen Xiao`, a second-year M.S student in [HISLab:rocket:](http://www.hislab.cn/) at ShanghaiTech University (Shanghai, China), advised by Prof. [Fei Gao](http://www.hislab.cn/people). Before that, I received my B.E. degree at University of Shanghai for Science and Technology, Shanghai in 2023.
+I am `Youshen Xiao`, a second-year M.S student in [HISLab:rocket:](http://www.hislab.cn/) at ShanghaiTech University (Shanghai, China), advised by Prof. [Fei Gao](http://www.hislab.cn/people). Now, I have also joined [SMILELab:smile:](https://smilelab.com.cn/), advised by Prof.[Yuyao Zhang](https://smilelab.com.cn/director/). Before that, I received my B.E. degree at University of Shanghai for Science and Technology, Shanghai in 2023.
 
 My research interests mainly focus on:
 * Photoacoustic Imaging Spare-View Reconstruction
