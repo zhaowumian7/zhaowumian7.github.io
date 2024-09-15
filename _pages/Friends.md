@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /friend/
-title: Friends
+title: Homies
 description: Fortunate to be friends with them :)
 nav: false
-nav_order: 4
+nav_order: 9
 ---
 
 * [<b>Qing Wu</b>](https://iwuqing.github.io/) from SMILE:smile: LAB at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
