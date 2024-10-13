@@ -5,7 +5,7 @@ permalink: /projects/
 description: All my live.
 nav: ture
 nav_order: 3
-display_categories: [Eat,fun]
+display_categories: [Eat,Fun,Study]
 horizontal: false
 ---
 
