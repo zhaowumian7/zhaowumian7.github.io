@@ -28,6 +28,8 @@ RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
 
+RUN gem install mini_racer
+
 ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll

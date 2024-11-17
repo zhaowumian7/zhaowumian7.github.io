@@ -29,5 +29,5 @@ My research interests mainly focus on:
 * Neural Representation<br>
 
 
-See more in the [detailed CV](https://zhaowumian7.github.io/assets/pdf/zhaowumian.pdf).
+See more in the [detailed CV](https://zhaowumian7.github.io/assets/pdf/Youshen_Xiao__CV.pdf).
 
