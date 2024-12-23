@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Youshen_Xiao3.jpg
+  image: youshen_xiao_4.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -30,4 +30,3 @@ My research interests mainly focus on:
 
 
 See more in the [detailed CV](https://zhaowumian7.github.io/assets/pdf/Youshen_Xiao__CV.pdf).
-
