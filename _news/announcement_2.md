@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS) :tada:
+One paper accepted by **2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS)** :tada:
