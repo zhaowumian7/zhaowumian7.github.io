@@ -52,7 +52,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -61,9 +61,17 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a style="color: black">Misc</a>
+      </h2>
+      I'm a rap head 🎤, go by the name Zhao Wumian 🌙. Got my artist page up on NetEase Cloud Music 🎶 — still on the grind 💪, hoping one day I'll drop tracks that really hit 🔥. So, let's get it!!!!
     {% endif %}
 
     
