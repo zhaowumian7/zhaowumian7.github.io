@@ -2,7 +2,7 @@
 layout: page
 title: Sheng Liao @ SHTU
 description: kite liberator!!!
-img: assets/img/homies/liao.png
+img: assets/img/homies/liao.jpg
 importance: 2
 category: Bro
 ---
@@ -49,5 +49,3 @@ waiting......
 <div class="caption">
     廖胜大师兄进入赛博空间找寻灵感.
 </div>
-
-
